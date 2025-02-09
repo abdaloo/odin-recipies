@@ -1,0 +1,21 @@
+*{
+    font-family: "poppins", serif;
+    font-weight: 10;
+    font-style: normal;
+    background-color: bisque;
+}
+
+h1, h1 a{
+    text-align: center;
+    background-color: teal;
+    color: white;
+}
+
+p{
+    color: gray;
+}
+
+ul li,a{
+    color: red;
+}
+
